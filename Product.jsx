@@ -33,7 +33,7 @@ function Product() {
             </li>
           </ul>
           <div class="product_img d-flex">
-            <img src="assets/product2.jpg" alt="" />
+            <img src="product2.jpg" alt="" />
           </div>
           <div class="button-cart d-flex">
             <a href="#">
@@ -65,7 +65,7 @@ function Product() {
             </li>
           </ul>
           <div class="product_img d-flex">
-            <img src="assets/product3.jpg" alt="" />
+            <img src="product3.jpg" alt="" />
           </div>
           <div class="button-cart d-flex">
             <a href="#">
@@ -103,7 +103,7 @@ function Product() {
             </li>
           </ul>
           <div class="product_img d-flex">
-            <img src="assets/product4.jpg" alt="" />
+            <img src="product4.jpg" alt="" />
           </div>
           <div class="button-cart d-flex">
             <a href="#">
@@ -138,7 +138,7 @@ function Product() {
             </li>
           </ul>
           <div class="product_img d-flex">
-            <img src="assets/product5.jpg" alt="" />
+            <img src="product5.jpg" alt="" />
           </div>
           <div class="button-cart d-flex">
             <a href="#">
@@ -175,7 +175,7 @@ function Product() {
             </li>
           </ul>
           <div class="product_img d-flex">
-            <img src="assets/product6.jpg" alt="" />
+            <img src="product6.jpg" alt="" />
           </div>
           <div class="button-cart d-flex">
             <a href="#">
