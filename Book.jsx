@@ -29,7 +29,7 @@ function Book() {
         </li>
       </ul>
       <div class="product_img d-flex">
-        <img src="assets/product1.jpg" alt="" />
+        <img src="product1.jpg" alt="" />
       </div>
       <div class="button-cart d-flex">
         <a href="#">
