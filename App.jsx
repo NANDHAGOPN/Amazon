@@ -1,7 +1,7 @@
 import React from "react";
-import Navbar from "./Navbar";
-import Banner from "./Banner";
-import Product from "./Product";
+import Navbar from "Navbar.jsx";
+import Banner from "Banner.jsx";
+import Product from "Product.jsx";
 
 function App() {
   return (
