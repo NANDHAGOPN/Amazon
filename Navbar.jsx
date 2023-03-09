@@ -5,7 +5,7 @@ function Navbar() {
     <nav class="d-flex none">
       <div class="nav_brand">
         <a href="#">
-          <img src="./assets/logo.png" alt="" />
+          <img src="logo.png" alt="" />
         </a>
       </div>
       <div class="search d-flex">
