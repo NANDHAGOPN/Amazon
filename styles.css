@@ -1,7 +1,7 @@
 * {
     padding: 0;
     margin: 0;
-    
+    box-sizing: border-box;
   }
   
   :root {
@@ -11,6 +11,7 @@
   }
   body {
     background-color: #eaeded;
+     Width: 100%;
   }
   /* ======Golabel Classes====== */
   ul {
